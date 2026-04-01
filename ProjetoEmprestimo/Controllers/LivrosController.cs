@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using ProjetoEmprestimo.GerenciaArquivos;
 using ProjetoEmprestimo.Models;
 using ProjetoEmprestimo.Repository.Contract;
@@ -31,5 +32,29 @@ namespace ProjetoEmprestimo.Controllers
             ViewBag.msg = "Cadastro realizado";
             return View();
         }
+
+
+        //public IActionResult CadLivro()
+        //{
+        //    var listCategorias = _categoriaRepository.ObterTodosCategorias();
+        //    ViewBag.Categorias = new SelectList(listCategorias, "codCategoria", "descricao");
+        //    return View();
+        //}
+        //[HttpPost]
+        //public IActionResult CadLivro(Livro livro, IFormFile file)
+        //{
+        //    var listCategorias = _categoriaRepository.ObterTodosCategorias();
+        //    ViewBag.Categorias = new SelectList(listCategorias, "codCategoria", "descricao");
+
+        //    var Caminho = GerenciadorArquivo.CadastrarImagemProduto(file);
+
+        //    livro.imagemLivro = Caminho;
+
+        //    _livroRepository.Cadastrar(livro);
+
+        //    ViewBag.msg = "Cadastro realizado";
+        //    return View();
+        //}
     }
 }
+
