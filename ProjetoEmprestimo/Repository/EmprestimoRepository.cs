@@ -21,7 +21,17 @@ namespace ProjetoEmprestimo.Repository
         {
             using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
+                conexao.Open();
+                MySqlDataReader dr;
 
+                MySqlCommand cmd = new MySqlCommand("SELECT codEmp from tbEmprestimo order by codEmp DESC limit 1", conexao);
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                dr = cmd.ExecuteReader();
+                while (dr.Read())
+                {
+                    emprestimo.codEmp = dr[0].ToString(); 
+                }
+                conexao.Close();
             }
         }
 
