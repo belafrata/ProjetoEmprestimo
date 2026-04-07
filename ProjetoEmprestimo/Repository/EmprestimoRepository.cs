@@ -1,5 +1,6 @@
 ﻿using MySql.Data.MySqlClient;
 using ProjetoEmprestimo.Repository.Contract;
+using ProjetoEmprestimo.Models;
 
 namespace ProjetoEmprestimo.Repository
 {
@@ -11,17 +12,20 @@ namespace ProjetoEmprestimo.Repository
         {
             _conexaoMySQL = conf.GetConnectionString("ConexaoMySQL");
         }
-        public void Atualizar(EmprestimoRepository emprestimo)
+        public void Atualizar(Emprestimo emprestimo)
         {
             throw new NotImplementedException();
         }
 
-        public void buscaIdEmp(EmprestimoRepository emprestimo)
+        public void buscaIdEmp(Emprestimo emprestimo)
         {
-            throw new NotImplementedException();
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+
+            }
         }
 
-        public void Cadastrar(EmprestimoRepository emprestimo)
+        public void Cadastrar(Emprestimo emprestimo)
         {
             using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
@@ -30,8 +34,10 @@ namespace ProjetoEmprestimo.Repository
                 MySqlCommand cmd = new MySqlCommand("insert into tbEmprestimo values(default, @dtEmpre, @dtDev, @codUsu)", conexao);
 
                 cmd.Parameters.Add("@dtEmpre", MySqlDbType.VarChar).Value = emprestimo.dtEmpre;
-                cmd.Parameters.Add("@dtEmpre", MySqlDbType.VarChar).Value = emprestimo.dtEmpre;
-                cmd.Parameters.Add("@dtEmpre", MySqlDbType.VarChar).Value = emprestimo.dtEmpre;
+                cmd.Parameters.Add("@dtDev", MySqlDbType.VarChar).Value = emprestimo.dtDev;
+                cmd.Parameters.Add("@codUsu", MySqlDbType.VarChar).Value = emprestimo.codUsu;
+                cmd.ExecuteNonQuery();
+                conexao.Close();
             }
         }
 
@@ -40,12 +46,12 @@ namespace ProjetoEmprestimo.Repository
             throw new NotImplementedException();
         }
 
-        public EmprestimoRepository ObterEmprestimos(int Id)
+        public Emprestimo ObterEmprestimos(int Id)
         {
             throw new NotImplementedException();
         }
 
-        public IEnumerable<EmprestimoRepository> ObterTodosEmprestimo()
+        public IEnumerable<Emprestimo> ObterTodosEmprestimo()
         {
             throw new NotImplementedException();
         }
