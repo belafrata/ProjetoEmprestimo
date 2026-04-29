@@ -218,7 +218,6 @@ C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\bin\Debug\net8.0\runt
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.csproj.AssemblyReference.cache
-C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.AssemblyInfoInputs.cache
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.AssemblyInfo.cs
@@ -227,14 +226,10 @@ C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\Proj
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.RazorAssemblyInfo.cache
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.RazorAssemblyInfo.cs
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.sourcelink.json
-C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\scopedcss\bundle\ProjetoEmprestimo.styles.css
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\scopedcss\projectbundle\ProjetoEmprestimo.bundle.scp.css
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
@@ -244,3 +239,11 @@ C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\refi
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.pdb
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.genruntimeconfig.cache
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ref\ProjetoEmprestimo.dll
+C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoEmprestimo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoEmprestimo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoEmprestimo.props
+C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoEmprestimo.props
+C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoEmprestimo.props
+C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets.pack.json
