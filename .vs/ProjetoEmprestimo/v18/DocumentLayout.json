@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4B6B97AF-A756-411A-B7B5-8E5EFA68E4DD}|ProjetoEmprestimo\\ProjetoEmprestimo.csproj|c:\\users\\3mtec\\desktop\\fratamarina\\projetoemprestimo\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6B97AF-A756-411A-B7B5-8E5EFA68E4DD}|ProjetoEmprestimo\\ProjetoEmprestimo.csproj|solutionrelative:projetoemprestimo\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B6B97AF-A756-411A-B7B5-8E5EFA68E4DD}|ProjetoEmprestimo\\ProjetoEmprestimo.csproj|c:\\users\\3mtec\\desktop\\fratamarina\\projetoemprestimo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B6B97AF-A756-411A-B7B5-8E5EFA68E4DD}|ProjetoEmprestimo\\ProjetoEmprestimo.csproj|solutionrelative:projetoemprestimo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,11 +78,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Repository\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "ProjetoEmprestimo\\Repository\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Repository\\LivroRepository.cs",
+              "RelativeToolTip": "ProjetoEmprestimo\\Repository\\LivroRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAMwDoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:23:55.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Carrinho.cshtml",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Views\\Home\\Carrinho.cshtml",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Views\\Home\\Carrinho.cshtml",
@@ -86,12 +103,11 @@
               "RelativeToolTip": "ProjetoEmprestimo\\Views\\Home\\Carrinho.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-05T11:19:37.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T11:19:37.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Views\\Home\\Index.cshtml",
@@ -103,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Controllers\\HomeController.cs",
@@ -111,12 +127,11 @@
               "RelativeToolTip": "ProjetoEmprestimo\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAuwGgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T11:11:37.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T11:11:37.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CookieCarrinhoCompra.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
@@ -128,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Cookie.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Cookie\\Cookie.cs",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Cookie\\Cookie.cs",
@@ -140,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ProjetoEmprestimo.csproj",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\ProjetoEmprestimo.csproj",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\ProjetoEmprestimo.csproj",
@@ -152,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Emprestimo.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Models\\Emprestimo.cs",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Models\\Emprestimo.cs",
@@ -164,20 +179,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Program.cs",
               "ToolTip": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Program.cs",
               "RelativeToolTip": "ProjetoEmprestimo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T11:11:37.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Views\\Livros\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Views\\Livros\\Index.cshtml",
@@ -185,12 +200,11 @@
               "RelativeToolTip": "ProjetoEmprestimo\\Views\\Livros\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-05T11:11:37.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T11:11:37.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConfirmarEmprestimo.cshtml",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Views\\Home\\ConfirmarEmprestimo.cshtml",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Views\\Home\\ConfirmarEmprestimo.cshtml",
@@ -198,12 +212,11 @@
               "RelativeToolTip": "ProjetoEmprestimo\\Views\\Home\\ConfirmarEmprestimo.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-05T11:23:35.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T11:23:35.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EmprestimoRepository.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Repository\\EmprestimoRepository.cs",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Repository\\EmprestimoRepository.cs",
@@ -215,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IEmprestimoRepository.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Repository\\Contract\\IEmprestimoRepository.cs",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Repository\\Contract\\IEmprestimoRepository.cs",
@@ -227,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Repository\\ItemRepository.cs",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Repository\\ItemRepository.cs",
@@ -239,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Repository\\Contract\\IItemRepository.cs",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Repository\\Contract\\IItemRepository.cs",
@@ -251,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "LivrosController.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Controllers\\LivrosController.cs",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Controllers\\LivrosController.cs",
@@ -263,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ILivroRepository.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\FrataMarina\\ProjetoEmprestimo\\Repository\\Contract\\ILivroRepository.cs",
               "RelativeDocumentMoniker": "ProjetoEmprestimo\\Repository\\Contract\\ILivroRepository.cs",
