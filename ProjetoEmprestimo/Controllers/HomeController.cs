@@ -93,7 +93,18 @@ namespace ProjetoEmprestimo.Controllers
             for (int i = 0; i < carrinho.Count; i++)
             {
                 mdI.codEmp = Convert.ToInt32(emprestimo.codEmp);
+                mdI.codLivro = Convert.ToString(carrinho[i].codLivro);
+
+                _itemRepository.Cadastrar(mdI);
             }
+
+            _cookieCarrinhoCompra.RemoverTodos();
+            return RedirectToAction("confEmp");
+        }
+
+        public IActionResult confEmp()
+        {
+            return View();
         }
     }
 }
