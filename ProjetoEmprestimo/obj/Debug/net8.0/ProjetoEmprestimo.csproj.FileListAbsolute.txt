@@ -239,14 +239,6 @@ C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\refi
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.pdb
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.genruntimeconfig.cache
 C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\ref\ProjetoEmprestimo.dll
-C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\bin\Debug\net8.0\System.Formats.Asn1.dll
-C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\bin\Debug\net8.0\System.Text.Json.dll
-C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoEmprestimo.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoEmprestimo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoEmprestimo.props
-C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoEmprestimo.props
-C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoEmprestimo.props
-C:\Users\3MTEC\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\3mtec\Desktop\FrataMarina\ProjetoEmprestimo\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\3mtec\Desktop\FrataMarina\ProjetoEmprestimo\bin\Debug\net8.0\appsettings.json
 C:\Users\3mtec\Desktop\FrataMarina\ProjetoEmprestimo\bin\Debug\net8.0\ProjetoEmprestimo.staticwebassets.runtime.json
@@ -494,3 +486,9 @@ C:\Users\3mtec\Desktop\FrataMarina\ProjetoEmprestimo\obj\Debug\net8.0\refint\Pro
 C:\Users\3mtec\Desktop\FrataMarina\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.pdb
 C:\Users\3mtec\Desktop\FrataMarina\ProjetoEmprestimo\obj\Debug\net8.0\ProjetoEmprestimo.genruntimeconfig.cache
 C:\Users\3mtec\Desktop\FrataMarina\ProjetoEmprestimo\obj\Debug\net8.0\ref\ProjetoEmprestimo.dll
+C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\3mtec\Desktop\ProjetoEmprestimo\ProjetoEmprestimo\obj\Debug\net8.0\swae.build.ex.cache

@@ -13,6 +13,7 @@ builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<ILivroRepository, LivroRepository>();
 builder.Services.AddScoped<IEmprestimoRepository, EmprestimoRepository>();
 builder.Services.AddScoped<IItemRepository, ItemRepository>();
+builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>(); 
 
 // Add Gerenciador Arquivo como Serviços
 builder.Services.AddScoped<GerenciadorArquivo>();
